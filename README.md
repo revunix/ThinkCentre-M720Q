@@ -1,3 +1,5 @@
+![Model](https://www.e-systems.de/media/image/a7/d3/9d/Lenovo-Thinkcentre-M720-Tiny-9qgYqmRzVSO0xo.png)
+
 ## Hardware
 Components | Recommended
 ------------ | -------------
