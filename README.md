@@ -22,6 +22,7 @@ Items | Last Version | Comments
 [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases/latest) | 1.4.4 |
 [NVMeFix](https://github.com/acidanthera/NVMeFix/releases/latest) | 1.0.4 |
 [IntelMausiEthernet](https://github.com/Mieze/IntelMausiEthernet) | 2.5.0 |
+[USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All) | 0.7.5 |
 USBPorts.kext | 1.0 | created with [Hackintool.app](https://github.com/headkaze/Hackintool/releases/latest)
 
 
