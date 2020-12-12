@@ -9,7 +9,7 @@ Components | Recommended
 **Graphics Card** | Intel UHD Graphics 630
 RAM | 32GB (2x16GB) CT2K16G4SFD824A DDR4 2400 MHz CL17
 macOS | 11.0.1 (20B29)
-OpenCore | v0.6.3 (stable)
+OpenCore | v0.6.4 (stable)
 
 
 ## Updates
