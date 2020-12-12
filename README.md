@@ -7,7 +7,7 @@ Components | Recommended
 **CPU** | Intel i5 9400T - 1,8 GHz
 **WiFi** | [BCM94360NG](https://www.aliexpress.com/item/4001120137796.html?)
 **Graphics Card** | Intel UHD Graphics 630
-RAM | 8GB (Stock RAM)
+RAM | 32GB (2x16GB) CT2K16G4SFD824A DDR4 2400 MHz CL17
 macOS | 11.0.1 (20B29)
 OpenCore | v0.6.3 (stable)
 
