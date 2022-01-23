@@ -1,5 +1,3 @@
-![Model](https://www.hackintosh-forum.de/attachment/168370-lenovo-thinkcentre-m720-tiny-9qgyqmrzvso0xo-png/)
-
 
 [![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
 
