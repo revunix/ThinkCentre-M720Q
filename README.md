@@ -1,5 +1,5 @@
 
-[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
+[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://ko-fi.com/revunix)
 
 ## Hardware
 Components | Recommended
